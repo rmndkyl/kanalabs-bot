@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "@zlkcyber",
+  "author": "@rmndkyl",
   "license": "MIT",
   "description": "",
   "dependencies": {
